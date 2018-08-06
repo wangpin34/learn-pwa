@@ -1,2 +1,2 @@
-# pwa-demo
-progressive  web app demo
+# Learn progressive web application
+
